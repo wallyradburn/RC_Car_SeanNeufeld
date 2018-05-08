@@ -1,0 +1,6 @@
+C:\Users\seann\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\obj\x86\Debug\EnumerationAndStaticClasses.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\bin\Debug\EnumerationAndStaticClasses.exe
+C:\Users\Administrator\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\bin\Debug\EnumerationAndStaticClasses.pdb
+C:\Users\Administrator\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\obj\x86\Debug\EnumerationAndStaticClasses.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\obj\x86\Debug\EnumerationAndStaticClasses.exe
+C:\Users\Administrator\Desktop\ADEV2005Challenges\EnumerationAndStaticClasses\obj\x86\Debug\EnumerationAndStaticClasses.pdb

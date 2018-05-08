@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\ADEV2005Challenges\3PillersOOP\bin\Debug\3PillersOOP.exe
+C:\Users\Administrator\Desktop\ADEV2005Challenges\3PillersOOP\bin\Debug\3PillersOOP.pdb
+C:\Users\Administrator\Desktop\ADEV2005Challenges\3PillersOOP\obj\x86\Debug\3PillersOOP.exe
+C:\Users\Administrator\Desktop\ADEV2005Challenges\3PillersOOP\obj\x86\Debug\3PillersOOP.pdb

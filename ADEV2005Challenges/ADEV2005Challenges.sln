@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAndObjects", "ClassesAndObjects\ClassesAndObjects.csproj", "{ED62018D-45E9-4682-B2E7-B0B6BCC561B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationAndStaticClasses", "EnumerationAndStaticClasses\EnumerationAndStaticClasses.csproj", "{64F2CD06-E0E8-4485-9675-061B4F2E8AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3PillersOOP", "3PillersOOP\3PillersOOP.csproj", "{C84A2955-FE10-4754-A072-02FADDA2FB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED62018D-45E9-4682-B2E7-B0B6BCC561B1}.Debug|x86.ActiveCfg = Debug|x86
+		{ED62018D-45E9-4682-B2E7-B0B6BCC561B1}.Debug|x86.Build.0 = Debug|x86
+		{ED62018D-45E9-4682-B2E7-B0B6BCC561B1}.Release|x86.ActiveCfg = Release|x86
+		{ED62018D-45E9-4682-B2E7-B0B6BCC561B1}.Release|x86.Build.0 = Release|x86
+		{64F2CD06-E0E8-4485-9675-061B4F2E8AAC}.Debug|x86.ActiveCfg = Debug|x86
+		{64F2CD06-E0E8-4485-9675-061B4F2E8AAC}.Debug|x86.Build.0 = Debug|x86
+		{64F2CD06-E0E8-4485-9675-061B4F2E8AAC}.Release|x86.ActiveCfg = Release|x86
+		{64F2CD06-E0E8-4485-9675-061B4F2E8AAC}.Release|x86.Build.0 = Release|x86
+		{C84A2955-FE10-4754-A072-02FADDA2FB21}.Debug|x86.ActiveCfg = Debug|x86
+		{C84A2955-FE10-4754-A072-02FADDA2FB21}.Debug|x86.Build.0 = Debug|x86
+		{C84A2955-FE10-4754-A072-02FADDA2FB21}.Release|x86.ActiveCfg = Release|x86
+		{C84A2955-FE10-4754-A072-02FADDA2FB21}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
